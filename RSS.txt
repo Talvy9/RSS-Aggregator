@@ -1,0 +1,8 @@
+https://dodcio.defense.gov/News/Feed/
+https://digital.va.gov/feed/
+https://open.gsa.gov/feed/
+https://www.data.gov/feed/
+https://strategy.data.gov/feed/
+https://www.performance.gov/feed/
+https://www.whitehouse.gov/ostp/feed/
+https://cloud.gov/feed/
